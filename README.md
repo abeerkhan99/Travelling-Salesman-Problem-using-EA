@@ -5,6 +5,7 @@ The dataset and it's related details can be found at: http://www.math.uwaterloo.
 
 <h3>How to Run?</h3>
   - Download tsp_ea.py and the dataset provided in the repository into a folder, and run the file. The output would be in the format: "Best distance so far: Value". 
+
   - You can change the parameters, and observe how the algorithm performs using a combination of different parent and selection schemes, if you wish to do so. You can also attempt to run this using a different dataset, which can be found using the link mentioned above. 
   
   
